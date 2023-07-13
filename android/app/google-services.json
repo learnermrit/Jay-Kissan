@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "933502073142",
+    "project_id": "jay-kissan-ca961",
+    "storage_bucket": "jay-kissan-ca961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933502073142:android:b4393b097e494556f89b97",
+        "android_client_info": {
+          "package_name": "com.example.jay_kissan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933502073142-j33q05l8ca266r5lmkto76molbckep9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jay_kissan",
+            "certificate_hash": "a0f8f4a08ef971dc97277a677898d850b86c9633"
+          }
+        },
+        {
+          "client_id": "933502073142-2jfvv2lbt426ok8emoq4l928t28qnkrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYDGoa3WM1m3HbiYNCzzDBhFfLo9uNX0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933502073142-2jfvv2lbt426ok8emoq4l928t28qnkrf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933502073142-f4f2ui7c68977emggg683qog11i00ce0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jayKissan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
